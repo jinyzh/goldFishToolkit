@@ -1,8 +1,6 @@
 # goldFishToolkit
 A Cadence Virtuoso SKILL utility toolkit for IC layout workflows
-# goldFishToolkit
 
-A Cadence Virtuoso SKILL utility toolkit for academic IC layout workflows.
 
 ## Features
 
