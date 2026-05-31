@@ -32,13 +32,16 @@ Menu path:
 
 Layout Editor -> goldFishToolkit
 Warnings
+
 Do not use geometry snap blindly on PDK device internals.
+
 Pin refill generates top-level drawing shapes.
+
 Always run DRC/LVS after layout modification.
+
 
 
 ## Tested Environment
 
-Cadence Virtuoso IC231
-Rocky Linux 8.10
-PDK: not included
+- Cadence Virtuoso IC231
+- Rocky Linux 8.10
