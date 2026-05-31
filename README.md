@@ -4,7 +4,7 @@ A Cadence Virtuoso SKILL utility toolkit for IC layout workflows
 
 ## Features
 
-- Hierarchical PDK/device pin refill for EMX blackbox workflows
+- Hierarchical PDK/device pin metal shapes/paths refill for EMX blackbox workflows
 - Select off-grid objects
 - Snap selected objects to grid
 - Clear steiners / flight lines
