@@ -19,10 +19,15 @@ Add this line to `.cdsinit`:
 
 ```skill
 load("/path/to/goldFishToolkit/goldFishToolkit.il")
+```
 
 Then open a layout window or run:
 
+```skill
 gfInstallMenu()
+```
+
+
 ## Usage
 
 Menu path:
@@ -35,6 +40,7 @@ Always run DRC/LVS after layout modification.
 
 
 ## Tested Environment
+
 Cadence Virtuoso IC231
 Rocky Linux 8.10
 PDK: not included
