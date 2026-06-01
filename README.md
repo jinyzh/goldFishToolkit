@@ -1,13 +1,13 @@
 # goldFishToolkit
-A Cadence Virtuoso SKILL utility toolkit for IC layout workflows
+A Cadence Virtuoso SKILL utility for IC layout
 
 
 ## Features
 
-- Hierarchical PDK/device pin metal shapes/paths refill for EMX blackbox workflows
+- Hierarchical device pin metal shapes/paths refill for EMX blackbox workflows
 - Select off-grid objects
 - Snap selected objects to grid
-- Clear steiners / flight lines
+- Clear steiners
 - Create stair line polygon
 - Layout utility menu integration
 
